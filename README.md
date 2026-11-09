@@ -22,6 +22,7 @@ See the [Disclaimer](#disclaimer) for user responsibilities and limitations of l
 
 ## Contents
 
+- [Illustrated Guide: LoRA, QLoRA & Distillation](#illustrated-guide-lora-qlora--distillation)
 - [Choose a Script & Training Mode](#choose-a-script--training-mode)
 - [Getting Started](#getting-started)
 - [Run Your First Fine-Tune](#run-your-first-fine-tune)
@@ -39,6 +40,10 @@ See the [Disclaimer](#disclaimer) for user responsibilities and limitations of l
 - [License](#license)
 
 ---
+
+## Illustrated Guide: LoRA, QLoRA & Distillation
+
+![LoRA, QLoRA, and distillation concepts alongside the practical Hugging Face PEFT fine-tuning pipeline](LoRAQLoRADistil.png)
 
 ## Choose a Script & Training Mode
 
